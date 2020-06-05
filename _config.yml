@@ -16,7 +16,7 @@ defaults:
 
 title: Sumtudou
 name: Sumtudou
-description: Maybe I really have a blog .cn
+description: Maybe I really have a blog <a href="https://sumtudou.cn">click me</a>
 
 github: https://github.com/Sumtudou
 rss: true
